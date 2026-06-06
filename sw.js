@@ -1,4 +1,4 @@
-const CACHE = 'sewing-v2';
+const CACHE = 'sewing-v3';
 const ASSETS = [
   './',
   './index.html',
